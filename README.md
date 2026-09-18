@@ -1,4 +1,4 @@
-# Healthcare Revenue Leakage & Claims Performance Analytics
+# Healthcare Revenue Leakage & Claims Performance Analysis
 
 ## Executive Summary
 
